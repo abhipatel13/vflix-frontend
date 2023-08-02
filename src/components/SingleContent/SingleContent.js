@@ -5,7 +5,7 @@ import Badge from "@mui/material/Badge";
 import { Box, Link, Modal, Typography } from "@mui/material";
 import Singlepage from "../SinglePage/Singlepage";
 import { Route, Router, Routes, useNavigate } from "react-router-dom";
-import ContentModal from '../ContentModal/ContentModal';
+// import ContentModal from '../ContentModal/ContentModal';
 
 const SingleContent = ({
   id,
